@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+resume: true
 ---
 
 Hi there! Thanks for stopping by!
