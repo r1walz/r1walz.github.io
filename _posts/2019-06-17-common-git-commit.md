@@ -8,7 +8,7 @@ keywords: "rohit, ashiwal, organise, git, commit, blog"
 
 Hey Everyone!
 
-I know Git (a popular [VCS][1]) can be intimidating at first but learning and understanding it can help us efficiently develop software solutions. Today, I'll introduce you "commit", a very commonly used command, which is linked to the very concept of version control.
+I know Git (a popular [VCS][1]) can be intimidating at first but learning and understanding it can help us efficiently develop software solutions. Today, I'll introduce you to "commit", a very commonly used command, which is linked to the very concept of version control.
 
 ## ## git-commit
 

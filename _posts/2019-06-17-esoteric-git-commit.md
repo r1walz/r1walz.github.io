@@ -10,23 +10,23 @@ Hey Everyone!
 
 Now that we know how to use git-commit and what commits are all about, we are ready to learn about some of the rules which will help us in efficient collaboration.
 
-#### ### Commit Related Changes
+#### ## Commit Related Changes
 
 A commit should contain changes related to only one topic like fixing two different bugs should enjoy their separate commits. Small, concise and scope-limited commits make it easier for other developers to understand the changes and review them.
 
-#### ### Commit Often
+#### ## Commit Often
 
 Small and concise commits give the reviewers a "smaller" area to focus on which in turn helps them in better reviewing of the code. Moreover, it allows us to share more frequently with others thereby reducing chances of merge conflicts and also enabling easier integration.
 
-#### ### Don't Commit Half-Done Work
+#### ## Don't Commit Half-Done Work
 
 As discussed in the last blog post, commit is a logical entity. It should be logically independent and should contain everything from related test to documentation. Also, we should split commit into smaller logical chunks for efficient collaboration. If we are tempted to commit half-done work because of the need for a clean working tree, we can use git-stash instead. Even if we are committing WIP commits for the sake of review we should remember to squash those commits before merging them into the main tree so that everything remains logically clean and clear.
 
-#### ### Test Your Code Before Committing
+#### ## Test Your Code Before Committing
 
 Sometimes we do not wait for that code review tool to finish testing our code on all platforms and we push our code to the main branch only to know that the new code broke something. This is very wrong. We should try to test our code thoroughly. Only when it passes the test suite successfully, we should merge it into the codebase. As a simple rule of thumb: divide commits such that it passes the test suite successfully for each commit.
 
-#### ### Write Good Commit Description
+#### ## Write Good Commit Description
 
 Begin with a commit message, a very short summary describing overall changes in less than 50 characters. You can also add the "area" of work in the commit message.
 
