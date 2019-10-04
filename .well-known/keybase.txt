@@ -1,0 +1,93 @@
+==================================================================
+
+https://keybase.io/r1walz
+
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rashiwal.me
+
+  * I am r1walz (https://keybase.io/r1walz) on keybase.
+
+  * I have a public key ASAC5uNYfydGhMGiotuHMleDcVsN2ubHK1F9ywUl5gniZQo
+
+To do so, I am signing this object:
+
+{
+
+  "body": {
+
+    "key": {
+
+      "eldest_kid": "010123e3378fca1f7e3b280ee7c75daef2530081f0d5d08e32e0102109a1b580df9b0a",
+
+      "host": "keybase.io",
+
+      "kid": "012002e6e3587f274684c1a2a2db87325783715b0ddae6c72b517dcb0525e609e2650a",
+
+      "uid": "c49c3d45ac648b721add904ef81c8c19",
+
+      "username": "r1walz"
+
+    },
+
+    "merkle_root": {
+
+      "ctime": 1570223663,
+
+      "hash": "c764c95367ca1c600093259f461f46e8d3a4ff9a4674c18070a1a7ba44178308c1b7295bf26b93c95093b413ac1d6feeb394dc5eb4981b9daaf1aca44e37173f",
+
+      "hash_meta": "963c1b2bdb9bc4fb5f08fd764a4905aae137bd396159e521f9790863bac24cb3",
+
+      "seqno": 7868723
+
+    },
+
+    "service": {
+
+      "entropy": "prDPVK/ouLq5Cn+Q3vxZZ2JB",
+
+      "hostname": "rashiwal.me",
+
+      "protocol": "https:"
+
+    },
+
+    "type": "web_service_binding",
+
+    "version": 2
+
+  },
+
+  "client": {
+
+    "name": "keybase.io go client",
+
+    "version": "4.5.0"
+
+  },
+
+  "ctime": 1570223702,
+
+  "expire_in": 504576000,
+
+  "prev": "e613927a54a5a5f6e7c409dfd5305609af95768866787cea8a2cf65ded5cd462",
+
+  "seqno": 16,
+
+  "tag": "signature"
+
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAubjWH8nRoTBoqLbhzJXg3FbDdrmxytRfcsFJeYJ4mUKp3BheWxvYWTESpcCEMQg5hOSelSlpfbnxAnf1TBWCa+VdohmeHzqiiz2Xe1c1GLEIG8cX7TCh3DjeaeCktGohhmCXBKMxHl8Pvil27YlprQGAgHCo3NpZ8RAtXx0f4WfwdTcxFufEPsNweyauWmK13QN3sv1ijbR3tLFQsgmmkdTsygXq4zP8s8Oi5hGvPhoUkhW5cV4DnBFAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGfR42tW91CjuJc5Z4r7AQ8P9LgWq4nSErKxbf2XSGHgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/r1walz
+
+==================================================================
